@@ -1,2 +1,3 @@
-# dhila-git
-This is my repository for practice. 
+Ekahen practise er code rakha hoise.
+html ,css and js 
+Temon importatn kisu na.
